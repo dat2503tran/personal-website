@@ -1,0 +1,46 @@
+body{
+    background-color: #1A1A1D;
+    font-family: "Source Sans 3", sans-serif;
+    font-style: normal;
+}
+
+h1{
+    font-size: 4rem;
+    font-weight: weight;
+    color: white;
+}
+
+p{
+    color: #4E4E50;
+    font-size: 1.2rem;
+}
+
+.topcontainer{
+    display: flex;
+    justify-content: space-around;
+    height: 100vh;
+}
+
+.text{
+    padding: 10px;
+    flex: 2;
+    align-self: center;
+}
+
+.image{
+    padding: 10px;
+    flex: 1;
+}
+
+.icons{
+    display: flex;
+    justify-content: row;
+}
+
+.linkedin{
+    padding-right: 30px;
+}
+
+.mail{
+    padding-right: 30px;
+}
